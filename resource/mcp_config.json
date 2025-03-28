@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "gw-ai4sm": {
+      "command": "/Users/gentletiger/gw/test/mcp/GW-AI4SM/.venv/bin/python",
+      "args": [
+        "/Users/gentletiger/gw/test/mcp/GW-AI4SM/resource/mcp_server.py"
+      ],
+      "env": {}
+    }
+  }
+}
